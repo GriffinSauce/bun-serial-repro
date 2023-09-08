@@ -1,0 +1,14 @@
+{
+  "name": "bun-serial-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bun run index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/bindings-cpp": "^12.0.1"
+  }
+}
